@@ -76,7 +76,7 @@ at her doctor.
 
 A patient with a multiple-personality disorder tells you that you are one of six characters.
 
-<|startoftext|> [WP]A patient with a multiple-personality disorder tells you that you are one of six characters.[RESPONSE]
+A patient with a multiple-personality disorder tells you that you are one of six characters.
 
 “I know. I know. I just... wanted some help with my anxiety.”
 
@@ -781,6 +781,5 @@ The smoke rises from the exhaled smoke and spreads to
  
 
  
-
 
 
