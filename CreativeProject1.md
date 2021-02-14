@@ -1,3 +1,6 @@
+
+
+
 Writing Prompts and Responses Created by AI GPT-2 Iteration 1
 
 [WP]Divorced parents are kidnapped together with their son. Both of the parents have been given poison, but there is only one antidote. The boy needs to decide which parent gets to be saved. He has 30 seconds to make that decision.
