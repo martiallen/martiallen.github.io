@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "index.html.html",
               "ToolTip": "C:\\Users\\marti\\source\\repos\\martiallen.github.io\\index.html.html",
               "RelativeToolTip": "index.html.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwG0AAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-11-10T14:14:37.559Z",
               "EditorCaption": ""
