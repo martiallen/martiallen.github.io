@@ -179,8 +179,8 @@ h4 {
     background: var(--surface-light);
 }
 
-    .button.third:hover,
-    .button.third:focus {
+ .button.third:hover,
+ .button.third:focus {
         background: var(--surface-light);
     }
 
