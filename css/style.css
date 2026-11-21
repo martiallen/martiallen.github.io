@@ -179,6 +179,11 @@ h4 {
     background: var(--surface-light);
 }
 
+    .button.third:hover,
+    .button.third:focus {
+        background: var(--surface-light);
+    }
+
 .profile-image {
     width: min(100%, 320px);
     margin: 0 auto;
